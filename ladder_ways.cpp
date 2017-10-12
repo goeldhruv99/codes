@@ -22,7 +22,7 @@ int ways(int n,int k){
 
 int main(){
 
-	cout<<ways(8,3)<<endl;
+	cout<<ways()<<endl;
 	
 	return 0;
 }
